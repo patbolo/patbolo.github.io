@@ -1,3 +1,7 @@
+<br />
+<b>Warning</b>:  Undefined array key "url" in <b>/home/jean/code/HBAstro/wp-content/plugins/wpforms-lite/src/Forms/IconChoices.php</b> on line <b>127</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "path" in <b>/home/jean/code/HBAstro/wp-content/plugins/wpforms-lite/src/Forms/IconChoices.php</b> on line <b>128</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -8,7 +12,7 @@
 <channel>
 	<title>
 	Comments for Hawke&#039;s Bay Astronomical Society	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=477" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=697" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Always looking up</description>
 	<lastBuildDate>Wed, 19 Jun 2024 05:03:11 +0000</lastBuildDate>

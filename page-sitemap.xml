@@ -1,3 +1,7 @@
+<br />
+<b>Warning</b>:  Undefined array key "url" in <b>/home/jean/code/HBAstro/wp-content/plugins/wpforms-lite/src/Forms/IconChoices.php</b> on line <b>127</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "path" in <b>/home/jean/code/HBAstro/wp-content/plugins/wpforms-lite/src/Forms/IconChoices.php</b> on line <b>128</b><br />
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
@@ -39,30 +43,6 @@
 	<url>
 		<loc>/pukerangi-observatory/</loc>
 		<lastmod>2016-06-07T04:56:13+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2014/10/IMG_1134abc.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2016/06/Long-range-roof-open2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2016/06/Long-Range-roof-closed2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2016/06/Interior-with-end-wall-down2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2016/06/IMG_4796ab.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2016/06/IMG_4789ab.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2016/06/IMG_4780ab.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2014/10/pukerangi_006.jpg</image:loc>
-		</image:image>
 		<image:image>
 			<image:loc>/wp-content/gallery/pukerangi-observatory/Pukerangi_-001.jpg</image:loc>
 		</image:image>
